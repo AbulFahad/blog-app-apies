@@ -1,2 +1,2 @@
-# blog-api-app
+# blog-app-apies
 Java Springboot blogging app
